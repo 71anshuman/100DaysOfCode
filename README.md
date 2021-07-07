@@ -12,3 +12,4 @@
 |Day 3|Jul 05, 2021|Added `multi-line to single-line text converter`|<ul><li>[Multi Line To Single Line](https://tools.71anshuman.com/#/multi-line-to-single-line) 💬</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |Day 4|Jul 06, 2021|Added `Salary hike calculator`|<ul><li>[Salary hike calculator](https://tools.71anshuman.com/#/salary-hike-calculator):moneybag:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |Day 5|Jul 07, 2021|Added `Salary hike percentage calculator`|<ul><li>[Salary hike percentage calculator](https://tools.71anshuman.com/#/salary-hike-calculator):moneybag:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
+|Day 6|Jul 08, 2021|Added `Password Generator`|<ul><li>[Password Generator](https://tools.71anshuman.com/#/password-generator):closed_lock_with_key:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
