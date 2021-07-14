@@ -15,4 +15,6 @@
 |Day 6|Jul 08, 2021|Added `Password Generator`|<ul><li>[Password Generator](https://tools.71anshuman.com/#/password-generator):closed_lock_with_key:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |Day 7|Jul 09, 2021|*Updated* `Password Generator`|<ul><li>[Password Generator](https://tools.71anshuman.com/#/password-generator):closed_lock_with_key:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |Day 8|Jul 10, 2021|GoByExamples|[GoByExamples](https://gobyexample.com/)|
-|Day 9|Jul 11, 2021|GoByExamples|[GoByExamples](https://gobyexample.com/)|
+|Day 9|Jul 11, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/)|
+|Day 10|Jul 12, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/)|
+|Day 11|Jul 13, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/)|
