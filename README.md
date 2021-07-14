@@ -18,3 +18,4 @@
 |Day 9|Jul 11, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/)|
 |Day 10|Jul 12, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/)|
 |Day 11|Jul 13, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/)|
+|Day 12|Jul 14, 2021|*Added* `Word Counter`|<ul><li>[Word Counter](https://tools.71anshuman.com/#/word-counter):capital_abcd:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
