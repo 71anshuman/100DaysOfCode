@@ -14,8 +14,11 @@
 |Day 5|Jul 07, 2021|Added `Salary hike percentage calculator`|<ul><li>[Salary hike percentage calculator](https://tools.71anshuman.com/#/salary-hike-calculator):moneybag:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |Day 6|Jul 08, 2021|Added `Password Generator`|<ul><li>[Password Generator](https://tools.71anshuman.com/#/password-generator):closed_lock_with_key:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |Day 7|Jul 09, 2021|*Updated* `Password Generator`|<ul><li>[Password Generator](https://tools.71anshuman.com/#/password-generator):closed_lock_with_key:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
-|Day 8|Jul 10, 2021|GoByExamples|[GoByExamples](https://gobyexample.com/)|
-|Day 9|Jul 11, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/)|
-|Day 10|Jul 12, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/)|
-|Day 11|Jul 13, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/)|
+|Day 8|Jul 10, 2021|GoByExamples|[GoByExamples](https://gobyexample.com/):books:|
+|Day 9|Jul 11, 2021|Building Modern Web Applications with Go (Golang)|[Udemy](https://www.udemy.com/share/103XPA/):books:|
+|Day 10|Jul 12, 2021|Building Modern Web Applications with Go (Golang)[`CONTINUED`]|[Udemy](https://www.udemy.com/share/103XPA/):books:|
+|Day 11|Jul 13, 2021|Building Modern Web Applications with Go (Golang)[`CONTINUED`]|[Udemy](https://www.udemy.com/share/103XPA/):books:|
 |Day 12|Jul 14, 2021|*Added* `Word Counter`|<ul><li>[Word Counter](https://tools.71anshuman.com/#/word-counter):capital_abcd:</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
+|||Building Modern Web Applications with Go (Golang)[`CONTINUED`]|[Udemy](https://www.udemy.com/share/103XPA/):books:|
+|Day 13|Jul 15, 2021|*Added* `JSON Formatter`|<ul><li>[JSON Formatter](https://tools.71anshuman.com/#/json-formatter)</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
+|||Building Modern Web Applications with Go (Golang)[`CONTINUED`]|[Udemy](https://www.udemy.com/share/103XPA/):books:|
