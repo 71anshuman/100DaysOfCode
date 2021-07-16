@@ -22,3 +22,5 @@
 |||Building Modern Web Applications with Go (Golang)[`CONTINUED`]|[Udemy](https://www.udemy.com/share/103XPA/):books:|
 |Day 13|Jul 15, 2021|*Added* `JSON Formatter`|<ul><li>[JSON Formatter](https://tools.71anshuman.com/#/json-formatter)</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |||Building Modern Web Applications with Go (Golang)[`CONTINUED`]|[Udemy](https://www.udemy.com/share/103XPA/):books:|
+|Day 14|Jul 16, 2021|*Added* `Base64 Converter`|<ul><li>[Base64 Converter](https://tools.71anshuman.com/#/base-64-converter)</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
+|||Building Modern Web Applications with Go (Golang)[`CONTINUED`]|[Udemy](https://www.udemy.com/share/103XPA/):books:|
