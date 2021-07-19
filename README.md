@@ -25,3 +25,4 @@
 |Day 14|Jul 16, 2021|*Added* `Base64 Converter`|<ul><li>[Base64 Converter](https://tools.71anshuman.com/#/base-64-converter)</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |||Building Modern Web Applications with Go (Golang)[`CONTINUED`]|[Udemy](https://www.udemy.com/share/103XPA/):books:|
 |Day 15|Jul 17, 2021|*Added* `EMI Calculator`|<ul><li>[EMI Calculator](https://tools.71anshuman.com/#/emi-calculator)</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
+|Day 16|Jul 18, 2021|*Updated* `EMI Calculator` (Added area chart)|<ul><li>[EMI Calculator](https://tools.71anshuman.com/#/emi-calculator)</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
