@@ -27,3 +27,4 @@
 |Day 15|Jul 17, 2021|*Added* `EMI Calculator`|<ul><li>[EMI Calculator](https://tools.71anshuman.com/#/emi-calculator)</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |Day 16|Jul 18, 2021|*Updated* `EMI Calculator` (Added area chart)|<ul><li>[EMI Calculator](https://tools.71anshuman.com/#/emi-calculator)</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |Day 17|Jul 19, 2021|Worked on design new design|[Repo](https://github.com/71anshuman/utils) :construction:|
+|Day 18|Jul 20, 2021|Worked on design new design [`CONTINUED`]|[Repo](https://github.com/71anshuman/utils) :construction:|
