@@ -28,4 +28,5 @@
 |Day 16|Jul 18, 2021|*Updated* `EMI Calculator` (Added area chart)|<ul><li>[EMI Calculator](https://tools.71anshuman.com/#/emi-calculator)</li><li>[Repo](https://github.com/71anshuman/utils)</li></ul>|
 |Day 17|Jul 19, 2021|Worked on new design|[Repo](https://github.com/71anshuman/utils) :construction:|
 |Day 18|Jul 20, 2021|Worked on new design [`CONTINUED`]|[Repo](https://github.com/71anshuman/utils) :construction:|
-|Day 19|Jul 21, 2021|<i>Worked and Deployed</i> `The new Design` [`CONTINUED`]|[Repo](https://github.com/71anshuman/utils) :construction:|
+|Day 19|Jul 21, 2021|<i>Worked and Deployed</i> `The new Design`|[Repo](https://github.com/71anshuman/utils) :construction:|
+|Day 20|Jul 22, 2021|Started with `Go Introductory Tutorials`|[Go Introductory](https://medium.com/rungo/go-introductory-tutorials-896aeda0fb8a) :books:|
